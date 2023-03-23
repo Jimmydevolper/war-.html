@@ -1,0 +1,37 @@
+var suites =["diamond","clubs","spades","heart"].html
+var cardnumber=[1,2,3,4,5,6,7,8,9,10,11,12,13,14].html
+//card constructor
+function Card(numb)
+this.numb=numb;
+//
+//deckconstructor
+functiondeck()
+this.deck=[];
+functionplayer()
+this.deck=[];
+//create deck of 52 cards.html
+deck .protype.init=functiondeck
+Card=newcard
+this.deck.push(card)
+functionshuffle(cardnumber)
+console.log(this.deck)
+//Gameconstructor
+functionGame()
+this.winner;
+this.loser;
+//creates two players.html
+player=newplayer.html
+computer=newplayer.html
+//shufles the deck
+shuffle(firstDeck.deck);
+console.log(firstDeck.deck);
+console.log("Player1",player.deck);
+console.log("Player2",player.deck);
+wargame=wargamefunction
+wargame.protype.compare=functionGame
+clickfunction(wargame).html
+(player1card).html
+(computercard).html
+console.log (wargameisover)
+
+
